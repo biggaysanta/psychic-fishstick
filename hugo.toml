@@ -1,0 +1,92 @@
+baseURL = 'https://paulbrown.net/'
+languageCode = 'en-us'
+title = 'Sacramento Massage Therapist | Paul Brown'
+theme= 'FixIt'
+description = 'Paul Brown is a Sacramento-based massage therapist specializing in deep tissue, sports, and therapeutic massage. Book your appointment today!'
+author = 'Paul Brown'
+contentDir =  'content'
+enableEmoji = true
+enableGitInfo = true
+enableRobothsTXT = true
+enableRSS = true
+enableSitemap = true
+enableSearch = true
+enableAnalytics = true
+enableComments = true
+enableSocial = true
+enableOpenGraph = true
+OpenGraphType = 'facebook'
+enableTwitterCard = true
+enableSchemaOrg = true
+enableAMP = false
+enableHugoToc = true
+enableHugoShortcodes = true
+enableHugoImages = true
+enableHugoVideos = true
+enableHugoAudio = true
+enableHugoCode = true
+enableHugoMath = false
+enableHugoData = true
+enableHugoTaxonomies = true
+enableHugoMenus = true
+enableHugoParams = true
+enableHugoCustomCSS = true
+enableHugoCustomJS = true
+enableHugoCustomHTML = true
+enableHugoCustomShortcodes = true
+enableHugoCustomTemplates = true
+enableHugoCustomLayouts = true
+enableHugoCustomPartials = true
+enableHugoImageProcessing = true
+enableHugoImageResizing = true
+enableHugoImageCropping = true
+enableHugoImageOptimization = true
+enableHugoImageLazyLoading = true
+enableHugoImageResponsive = true
+enableHugoImageWebP = true
+ignorelogs = ['hugo:warning', 'hugo:info','warning-dev-version']
+[params]
+  [params.author]
+    name = 'Paul Brown'
+    email = 'paul@paulbrown.net'
+    twitter = 'BigGaySanta'
+    github = 'BigGaySanta'
+    linkedin = 'paulbrowncmt'
+    instagram = 'paulbrowncmt'
+    facebook = 'paulbrowncmt'
+    youtube = 'UC1234567890'
+    description = 'Paul Brown is a licensed massage therapist in Sacramento, CA, specializing in deep tissue, sports, and therapeutic massage. With over 10 years of experience, he is dedicated to helping clients achieve optimal health and wellness.'
+    avatar = 'https://paulbrown.net/images/avatar.jpg'
+
+
+ 
+  logo = 'https://paulbrown.net/images/logo.png'
+  favicon = 'https://paulbrown.net/images/favicon.ico'
+  keywords = ['Sacramento', 'Massage Therapist', 'Deep Tissue', 'Sports Massage', 'Therapeutic Massage']
+  social = [
+    { name = 'facebook', url = 'https://www.facebook.com/paulbrowncmt' },
+    { name = 'twitter', url = 'https://twitter.com/BigGaySanta' },
+    { name = 'instagram', url = 'https://www.instagram.com/paulbrowncmt' },
+    { name = 'linkedin', url = 'https://www.linkedin.com/in/paulbrowncmt' },
+    { name = 'youtube', url = 'https://www.youtube.com/channel/UC1234567890' },
+    { name = 'github', url = 'https://github.com/biggaysanta/badger-badger' },
+    { name = 'rss', url = 'https://paulbrown.net/index.xml' }
+  ]
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 2
+  [[menu.main]]
+    name = 'Services'
+    url = '/services/'
+    weight = 3
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 4
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Analysis - Tag - Sacramento Massage Therapist | Paul Brown</title>
+    <link>http://localhost:1313/tags/data-analysis/</link>
+    <description>Sacramento Massage Therapist | Paul Brown</description>
+    <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-87ca54d0</generator>
+    <language>en-us</language>
+    <managingEditor>paul@paulbrown.net (Paul Brown)</managingEditor>
+    <webMaster>paul@paulbrown.net (Paul Brown)</webMaster>
+    <lastBuildDate>Fri, 06 Jun 2025 08:42:43 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/2016/07/2016-07-30-i-was-doing-some-data-analysis-this-morning-of/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate><author>paul@paulbrown.net (Paul Brown)</author>
+      <guid>http://localhost:1313/post/2016/07/2016-07-30-i-was-doing-some-data-analysis-this-morning-of/</guid>
+      <category domain="http://localhost:1313/categories/massage/">Massage</category>
+      <description>&lt;p&gt;[gallery]&lt;/p&gt;&#xA;&lt;p&gt;I was doing some data analysis this morning of which days of the week are the most popular for my clients.  I should note that I do not work on Sundays and Mondays, but have done a few appointments here and there on an ad hoc basis, so I’m not really counting them. &lt;/p&gt;&#xA;&lt;p&gt;It’s fascinating what you can learn when you analyize your data!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
