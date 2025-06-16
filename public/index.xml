@@ -8,7 +8,14 @@
     <language>en-us</language>
     <managingEditor>paul@paulbrown.net (Paul Brown)</managingEditor>
     <webMaster>paul@paulbrown.net (Paul Brown)</webMaster>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>paul@paulbrown.net (Paul Brown)</author>
+      <guid>http://localhost:1313/post/testimonials/</guid>
+      <description>&lt;h1 id=&#34;testimonials&#34;&gt;Testimonials&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My first visit with Paul was very eye-opening. He &lt;a href=&#34;https://paulbrown.net/what-is-myofascial-therapy/&#34;&gt;relieved a lot of my pain&lt;/a&gt; by going deep into muscles that I didn&amp;rsquo;t know I had. I&amp;rsquo;m still walking better two weeks later and my lower back is much better. I can highly recommend Paul to , you.&lt;br&gt;&#xA;I was amazed at the intake form that was on his website, it was very thorough. When I arrived at my first appointment he had studied it and already an idea of what he wanted to accomplish for me. Next month I will be signing up for the &lt;a href=&#34;https://paulbrown.net/secret-handshake-club/&#34;&gt;monthly program&lt;/a&gt;. The very best body work I have ever had. Thanks Paul&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
