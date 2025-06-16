@@ -58,7 +58,7 @@
       "title": "post",
       "path": "[[workspace]]/content/post"
     },
-    {
+    { "title": "archetypes",
       "path": "[[workspace]]/themes/FixIt/archetypes"
     }
   ],

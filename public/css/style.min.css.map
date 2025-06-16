@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "C:/Users/tawdr/iCloudDrive/Areas/websites/paulbrown.net/badger-badger-badger/sacramento-massage-therapist",
+	"sourceRoot": "C:/Users/tawdr/iCloudDrive/Resources/hugo/psychic-fishstick",
 	"sources": [
 		"themes/FixIt/assets/css/style.scss",
 		"themes/FixIt/assets/css/_variables.scss",
