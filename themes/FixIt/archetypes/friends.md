@@ -1,14 +1,17 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-subtitle:
+title:
+  '{ replace .TranslationBaseName "-" " " | title }': null
+subtitle: null
 layout: friends
-date: {{ .Date }}
+date:
+  "{ .Date }": null
 description: "{{ .Site.Params.author.name }}'s friends"
 keywords:
-  - 'Hugo FixIt'
-  - 'friends template'
+  - Hugo FixIt
+  - friends template
   - 友情链接
 comment: false
+lastmod: 2025-06-16T05:01:33.125Z
 ---
 
 <!-- The `friends.yml` file placed in the `yourProject/data/` directory will be loaded automatically here. -->
@@ -20,8 +23,8 @@ comment: false
 ## Base info
 
 - nickname: Lruihao
-- avatar: https://lruihao.cn/images/avatar.jpg
-- url: https://lruihao.cn
+- avatar: <https://lruihao.cn/images/avatar.jpg>
+- url: <https://lruihao.cn>
 - description: Lruihao's Note
 
 ## Friendly Reminder

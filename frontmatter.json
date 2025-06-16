@@ -42,6 +42,53 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "link",
+          "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "params",
+          "name": "params",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "logo",
+              "name": "logo",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "src",
+                  "name": "src",
+                  "type": "string"
+                },
+                {
+                  "title": "scale",
+                  "name": "scale",
+                  "type": "number"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "images",
+          "name": "images",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "featured_image",
+              "name": "featured_image",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "title": "topics",
+          "name": "topics",
+          "type": "fields",
+          "fields": []
         }
       ]
     }
@@ -58,9 +105,41 @@
       "title": "post",
       "path": "[[workspace]]/content/post"
     },
-    { "title": "archetypes",
+    {
+      "title": "archetypes",
       "path": "[[workspace]]/themes/FixIt/archetypes"
+    },
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.snippets": {
+    "blog": {
+      "description": "front matter for blog post",
+      "body": [
+        "---",
+        "title = \"{{ replace .Name \"-\" \" \" | title }}\"",
+        "date = {{ .Date }}",
+        "draft = true",
+        "featured = false",
+        "weight = 100  # Lower weight appears first in featured sections",
+        "description = \"\"",
+        "[images]",
+        "    featured_image = \"\"  # Path to the featured image",
+        "tags = []",
+        "topics = []",
+        "---",
+        "",
+        "Add your content here.",
+        ""
+      ],
+      "fields": []
+    }
+  }
 }

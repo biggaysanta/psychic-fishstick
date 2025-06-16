@@ -1,42 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/categories/class/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/couples-massage-workshop/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/categories/massage/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/myofascial-release/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/prenatal-massage/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/relaxation-massage/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/sports-massage/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-12T08:14:57-07:00</lastmod>
   </url>

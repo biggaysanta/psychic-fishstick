@@ -1,7 +1,7 @@
 baseURL = 'https://paulbrown.net/'
 languageCode = 'en-us'
 title = 'Sacramento Massage Therapist | Paul Brown'
-theme= 'FixIt'
+theme= 'navigator-hugo'
 description = 'Paul Brown is a Sacramento-based massage therapist specializing in deep tissue, sports, and therapeutic massage. Book your appointment today!'
 author = 'Paul Brown'
 contentDir =  'content'
