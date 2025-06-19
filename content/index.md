@@ -29,11 +29,11 @@ Welcome, friend! Tell me what brings you here today:
 
 ### Looking for Pain Relief?
 
-- Check out my [Zero Point Myofascial Release](services/myiofascial-release) session
+- Check out my [Zero Point Myofascial Release](services/myofascial-release) session
 
 ### Need to Relax?
 
-- Take a look at my [Tidal Wave Relaxation Massage](services/relaxatoin-massage) sessions
+- Take a look at my [Tidal Wave Relaxation Massage](services/relaxation-massage) sessions
 
 ### Training for an event, or just working out?
 
