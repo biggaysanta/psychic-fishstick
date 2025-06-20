@@ -114,8 +114,16 @@
       "path": "[[workspace]]/content"
     },
     {
-      "title": "post",
-      "path": "[[workspace]]/content/post"
+      "title": "page",
+      "path": "[[workspace]]/content/page"
+    },
+    {
+      "title": "static",
+      "path": "[[workspace]]/static"
+    },
+    {
+      "title": "static",
+      "path": "[[workspace]]/static"
     }
   ],
   "frontMatter.git.enabled": true,
