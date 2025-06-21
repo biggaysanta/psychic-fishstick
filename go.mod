@@ -1,3 +1,3 @@
-module github.com/biggaysanta/badger-badger-badger
+module github.com/biggaysanta/psychic-fishstick
 
 go 1.24.0
