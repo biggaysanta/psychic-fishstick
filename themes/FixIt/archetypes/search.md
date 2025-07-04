@@ -4,5 +4,10 @@ title:
 layout: search
 date:
     "{ .Date }": null
-lastmod: 2025-07-04T01:13:03.620Z
+lastmod: 2025-07-04T01:21:54.451Z
+params:
+    logo:
+        src: |
+            images/logo.png
+        scale: 100
 ---
