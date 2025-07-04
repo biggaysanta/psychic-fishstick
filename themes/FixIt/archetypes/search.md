@@ -1,5 +1,8 @@
 ---
-title: {{ T "assets.search" }}
+title:
+    '{ "assets.search" }': null
 layout: search
-date: {{ .Date }}
+date:
+    "{ .Date }": null
+lastmod: 2025-07-04T01:13:03.620Z
 ---
