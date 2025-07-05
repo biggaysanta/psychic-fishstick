@@ -1,17 +1,18 @@
 ---
-title: "Holiday Gift Idea - eGift Cards from Paul Brown Massage Therapy!"
-date: "2024-08-06"
-categories: 
-  - "announcement"
-  - "sale"
-tags: 
-  - "egift-cards"
-  - "gift-certificate"
-  - "gift-ideas"
-  - "massage-holiday-gift-ideas"
+title: Holiday Gift Idea - eGift Cards from Paul Brown, CMT!
+date: 2024-08-06
+categories:
+  - announcement
+  - sale
+tags:
+  - egift-cards
+  - gift-certificate
+  - gift-ideas
+  - massage-holiday-gift-ideas
+lastmod: 2025-07-04T02:03:16.279Z
 ---
 
-## Give the powerful gift of healing touch this holiday season!
+## Give the powerful gift of healing touch this holiday season
 
 Ready to level up your gift-giving game? Need massage holiday gift ideas? Paul Brown Massage Therapy's got your back! My Massage-o-matic eGift Cards are like little bundles of joy, packed with 5 fabulous services and an array of durations to choose from. Trust me, it's the perfect recipe to make your loved ones feel pampered and oh-so-special. So go ahead, give the gift of relaxation and watch those happy faces light up! 🎁✨
 
@@ -25,7 +26,7 @@ Ready to level up your gift-giving game? Need massage holiday gift ideas? Paul B
 
 ![](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=1500&h=&crop=)
 
-## Get Your Zen On: Give the Gift of Ultimate Relaxation this Holiday Season!
+## Get Your Zen On: Give the Gift of Ultimate Relaxation this Holiday Season
 
 Hey there, gift virtuosos and holiday enthusiasts! 🎁🎄 Looking for massage holiday gift ideas for that perfect present to make someone's day extra jolly? Well, have we got a treat for you! 🎉
 

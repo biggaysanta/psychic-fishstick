@@ -106,10 +106,6 @@
       "path": "[[workspace]]/content/post"
     },
     {
-      "title": "archetypes",
-      "path": "[[workspace]]/themes/FixIt/archetypes"
-    },
-    {
       "title": "content",
       "path": "[[workspace]]/content"
     },
